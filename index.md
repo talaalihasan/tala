@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Portfolio!
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "file:///Users/talaalihasan/Library/Messages/Attachments/41/01/DC5CB8C1-2184-4EA4-9DE1-01EDE4591AF3/IMG_8135.jpeg"
 feature_text: |
   ## Tala Ali-Hasan's Portfolio
 ---
